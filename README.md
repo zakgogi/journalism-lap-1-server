@@ -12,7 +12,7 @@ For this project we were tasked with creating a community journaling website. To
 - Users should have three emojis to choose from.
 - Users should be able to comment on other people’s entries.
 
-This readme will detail how to set-up and install the server side of this application, the technologies used as well as the wins and challenges we came across druring this project. If you would like to acess the server side website it can be found [here]().
+This readme will detail how to set-up and install the server side of this application, the technologies used as well as the wins and challenges we came across druring this project. If you would like to acess the server side website it can be found [here](https://sazjournalismproject.netlify.app/).
 
 ## Installation & Usage
 
@@ -51,5 +51,7 @@ This readme will detail how to set-up and install the server side of this applic
 
 - When running the tests for the server locally, when testing the put requests for example, the way we set it up means it actually writes to the Json back end when running the test suite. Tried to figure out how to correct this (potentially using mock functions) but ended up just sacrificing one post to gain a like and a comment every time the test suite is run (not the end of the world).
 - Heroku refreshes every 24 hours so unable to preserve our changes, our writing methods that worked locally don't work when deploying using Heroku (would likely have to add a service like AWS.)
+
+# Checkout our clientside from the link above!
 
 # Enjoy! 😁
