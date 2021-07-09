@@ -8,24 +8,7 @@
     "emoji1": 26,
     "emoji2": 9,
     "emoji3": 7,
-    "comments": [
-      "My first comment",
-      "My second comment",
-      "I'm adding a new comment here.",
-      "This is another new comment.",
-      "This is a fifth comment.",
-      "This is a sixth comment.",
-      "This is a seventh comment.",
-      "This comment is being created by the Jest test suite",
-      "Hey",
-      "hey",
-      "hey",
-      "Hey",
-      "Hey",
-      "Hey",
-      "Hey",
-      "go sports x2"
-    ],
+    "comments": [],
     "gif": ""
   },
   {
@@ -39,8 +22,7 @@
     "emoji3": 14,
     "comments": [
       "A test comment",
-      "Another test comment",
-      "A new comment"
+      "Another test comment"
     ],
     "gif": ""
   },
@@ -89,5 +71,149 @@
     "emoji2": 0,
     "emoji3": 0,
     "gif": "https://media0.giphy.com/media/gw3IWyGkC0rsazTi/200.gif?cid=b830f683trczcsr11ocuciy3f78iu6xutl53ty0kybdm64se&rid=200.gif&ct=g"
+  },
+  {
+    "title": "Demon Slayer-Kimetsu no Yaiba-The Movie: Mugen Train",
+    "id": 6,
+    "tag": "Film",
+    "article": "this is a good movie but I haven't seen it yet. Crunchyroll and Funimation have betrayed  me Q.Q",
+    "date": "2021-07-07T13:06:08.678Z",
+    "comments": [],
+    "emoji1": 14,
+    "emoji2": 2,
+    "emoji3": 3,
+    "gif": "https://media0.giphy.com/media/tEcIyVc6ukQV2eb86t/200.gif?cid=b830f683qr3c1o3y4cyng20wusik3jxk4kg1tdzq00w5ez3b&rid=200.gif&ct=g"
+  },
+  {
+    "title": "Its coming home",
+    "id": 7,
+    "tag": "News",
+    "article": "Breaking news: it's coming home",
+    "date": "2021-07-06T09:06:33.966Z",
+    "comments": ["England!!", "We're winning!"],
+    "emoji1": 43,
+    "emoji2": 12,
+    "emoji3": 0,
+    "gif": "https://media2.giphy.com/media/8BliJZaKapnQSoS35X/200.gif?cid=b830f683g2tkkqpvbfc62y2l0fdnjcl1jcf224605xeroick&rid=200.gif&ct=g"
+  },
+  {
+    "title": "This is a plug",
+    "id": 8,
+    "tag": "Other",
+    "article": "Follow our social media",
+    "date": "2021-06-09T09:06:59.916Z",
+    "comments": ["plug plug plug"],
+    "emoji1": 75,
+    "emoji2": 12,
+    "emoji3": 8,
+    "gif": "https://media0.giphy.com/media/BZhvKu7MT0n2voRhtf/200.gif?cid=b830f68321ogdze6lquvdvom7msmtbqk0gey92k08331ldke&rid=200.gif&ct=g"
+  },
+  {
+    "title": "Euros 2021",
+    "id": 9,
+    "tag": "Sport",
+    "article": "Can't believe England have made it to the final. Hopefully they can win the Euro's and bring it home - ITS COMING HOME",
+    "date": "2021-07-09T09:07:26.622Z",
+    "comments": ["It's coming home!"],
+    "emoji1": 17,
+    "emoji2": 6,
+    "emoji3": 4,
+    "gif": "https://media0.giphy.com/media/hWXisyrFbbCm293C5F/200.gif?cid=b830f683xqcw6omzyp84hz7bu78t5atnl46db5aj1gfx6ol0&rid=200.gif&ct=g"
+  },
+  {
+    "title": "Fast and Furious",
+    "id": 10,
+    "tag": "Film",
+    "article": "How is this series still going on, it should've ended years ago!",
+    "date": "2021-07-09T09:08:08.509Z",
+    "comments": ["We are family", "vin diesel is the man"],
+    "emoji1": 15,
+    "emoji2": 6,
+    "emoji3": 12,
+    "gif": "https://media0.giphy.com/media/L69hWWDRdc0NQ66pwZ/200.gif?cid=b830f683iuq0tk71luhybyhsu16ghe90dv4dr7txv02gglvi&rid=200.gif&ct=g"
+  },
+  {
+    "title": "covid sux",
+    "id": 11,
+    "tag": "Lifestyle",
+    "article": "covid sux",
+    "date": "2021-07-09T09:09:03.414Z",
+    "comments": ["boo"],
+    "emoji1": 0,
+    "emoji2": 0,
+    "emoji3": 30,
+    "gif": "https://media1.giphy.com/media/kHl4TKQMGSgISlozZb/200.gif?cid=b830f683072z6aubyp4uocz9agb45rt1pe0yod14i4ws5g7a&rid=200.gif&ct=g"
+  },
+  {
+    "title": "Yoga Update",
+    "id": 12,
+    "tag": "Lifestyle",
+    "article": "Really feeling good this morning, finally completed a week of Yoga and can see all the benefits from it - feeling young",
+    "date": "2021-07-09T09:09:38.444Z",
+    "comments": ["I love yoga"],
+    "emoji1": 12,
+    "emoji2": 3,
+    "emoji3": 1,
+    "gif": "https://media4.giphy.com/media/xUPGcyi4YxcZp8dWZq/200.gif?cid=b830f683qw0syq4d4rcl50kwe7w4b1qqya3ao5k0cz2fnplp&rid=200.gif&ct=g"
+  },
+  {
+    "title": "Kingdom Hearts 3",
+    "id": 13,
+    "tag": "Other",
+    "article": "I want to be a keyblade master",
+    "date": "2021-07-08T19:10:25.602Z",
+    "comments": [],
+    "emoji1": 15,
+    "emoji2": 15,
+    "emoji3": 4,
+    "gif": "https://media0.giphy.com/media/cI7heYvqlKSQM/200.gif?cid=b830f6835m5openuyam5aw7z0cc8sbiw5b11dyw818cwv41p&rid=200.gif&ct=g"
+  },
+  {
+    "title": "NHS Covid app may change as rules change, Grant Shapps says News",
+    "id": 14,
+    "tag": "News",
+    "article": "The NHS Covid contact tracing app used in England and Wales may need to change as coronavirus restrictions change, Transport Secretary Grant Shapps said.",
+    "date": "2021-07-09T09:10:46.360Z",
+    "comments": ["We <3 the NHS"],
+    "emoji1": 1,
+    "emoji2": 4,
+    "emoji3": 12,
+    "gif": ""
+  },
+  {
+    "title": "Winchcombe meteorite gets official classification",
+    "id": 15,
+    "tag": "News",
+    "article": "The rocky material that fell to Earth in a blazing fireball over the Cotswold town of Winchcombe in February has had its classification formally accepted.",
+    "date": "2021-07-09T09:11:23.808Z",
+    "comments": ["AHHHHHH"],
+    "emoji1": 12,
+    "emoji2": 3,
+    "emoji3": 7,
+    "gif": "https://media0.giphy.com/media/fPMlGiwdmtDTW/200.gif?cid=b830f6836ok7zhzgsgz5nf6qfiltnu82u6aow4z0xu6nhhne&rid=200.gif&ct=g"
+  },
+  {
+    "title": "Music to study to",
+    "id": 16,
+    "tag": "Music",
+    "article": "Lofi music is the way, it helps me relax",
+    "date": "2021-07-09T09:12:16.769Z",
+    "comments": ["So calming..."],
+    "emoji1": 20,
+    "emoji2": 8,
+    "emoji3": 6,
+    "gif": "https://media1.giphy.com/media/XbJYBCi69nyVOffLIU/200.gif?cid=b830f683jhmsadkp2s03sjdxxlyx2if2mt1p6h5ngt42e209&rid=200.gif&ct=g"
+  },
+  {
+    "title": "Dave's New Album",
+    "id": 17,
+    "tag": "Music",
+    "article": "Can't wait for the new album to drop ^.^",
+    "date": "2021-07-09T09:13:14.102Z",
+    "comments": ["Santan!!"],
+    "emoji1": 22,
+    "emoji2": 3,
+    "emoji3": 1,
+    "gif": "https://media0.giphy.com/media/JmhK681xVrars7iR7U/200.gif?cid=b830f683cpsxw479wi5upwfydnutiqu93jcozk8th3i8cijp&rid=200.gif&ct=g"
   }
 ]

@@ -1,6 +1,7 @@
 const request = require('supertest');
 const server = require('../app');
-
+// const mockData = require('..data.json');
+// jest.mock(server);
 
 describe ('API Server', () => {
 
